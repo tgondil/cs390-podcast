@@ -374,20 +374,6 @@ const response = await axios.post(url, data, {
 
 ---
 
-## ✅ Success Criteria
-
-Your project is complete when:
-
-- ✅ All individual API tests pass
-- ✅ Full pipeline runs without errors
-- ✅ Generated podcast sounds natural
-- ✅ Code is clean and well-commented
-- ✅ Error handling is implemented
-- ✅ `.env` file is not committed
-- ✅ You can listen to your podcast! 🎧
-
----
-
 ## 🌟 Extension Ideas (Optional)
 
 Once you complete the core assignment:
@@ -399,39 +385,6 @@ Once you complete the core assignment:
 5. Create a scheduling system to run daily
 6. Add email delivery of podcasts
 7. Build a web interface
-
----
-
-## 🎓 What You'll Learn
-
-By completing this project, you'll be able to:
-
-- ✅ Make HTTP GET and POST requests to APIs
-- ✅ Handle multiple authentication methods
-- ✅ Work with async/await in Node.js
-- ✅ Process both JSON and binary responses
-- ✅ Handle errors in backend code
-- ✅ Secure API keys properly
-- ✅ Read and understand API documentation
-- ✅ Build command-line applications
-- ✅ Work with AI/ML services
-
-**These are real-world backend skills that employers value!** 🚀
-
----
-
-## 💼 Portfolio Value
-
-This project demonstrates:
-
-- Backend development skills
-- API integration expertise
-- AI/ML service integration
-- Error handling and security best practices
-- Ability to read documentation and solve problems
-- Building complete, working applications
-
-Add this to your GitHub and resume! 📝
 
 ---
 
@@ -499,17 +452,6 @@ The included `handout.pdf` provides:
 
 ---
 
-## 🚀 Ready to Get Started?
+## 🎉 Good Luck!
 
-1. **Clone the repo:** https://github.com/tgondil/cs390-podcast
-2. **Read `handout.pdf`** - Complete assignment guide
-3. **Get your API keys** - Takes ~20 minutes
-4. **Start coding!** - Open `student-implementation.js`
-5. **Test incrementally** - Use `npm test`
-6. **Create your podcast!** - Run `npm start`
-
----
-
-**Build something amazing! This is your chance to work with cutting-edge AI technology.** 🎙️✨
-
-*A practical, achievable project that teaches real-world backend development skills.*
+**Start Building:** [https://github.com/tgondil/cs390-podcast](https://github.com/tgondil/cs390-podcast)
