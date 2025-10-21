@@ -31,12 +31,13 @@ BOTH_PSOS_OVERVIEW.txt
 # ===============================================
 # DOCUMENTATION (Use handout.pdf instead)
 # ===============================================
-README.md
 STUDENT_GUIDE.md
 QUICK_START.md
 API_REFERENCE.md
 COMPLETION_CHECKLIST.md
-*.md
+STUDENT_FILES.md
+PROJECT_SUMMARY.md
+# Note: README.md is kept for GitHub visibility
 
 # ===============================================
 # GENERATED OUTPUT (STUDENTS CREATE THEIR OWN)
