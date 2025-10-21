@@ -5,9 +5,11 @@
 
 ---
 
-## 📦 Repository
+## 🔗 Quick Links
 
-**GitHub:** https://github.com/tgondil/cs390-podcast
+- **📁 Main Repository:** [https://github.com/tgondil/cs390-podcast](https://github.com/tgondil/cs390-podcast)
+- **📄 Handout PDF:** [View handout.pdf](https://github.com/tgondil/cs390-podcast/blob/main/handout.pdf)
+- **💻 Student Code:** [student-implementation.js](https://github.com/tgondil/cs390-podcast/blob/main/student-implementation.js)
 
 Clone this repository to get started:
 ```bash
