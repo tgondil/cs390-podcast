@@ -1,0 +1,27 @@
+{
+  "name": "ai-podcast-generator",
+  "version": "1.0.0",
+  "description": "Backend PSO Assignment: Build an AI podcast generator using NewsAPI, OpenAI, and ElevenLabs",
+  "main": "student-implementation.js",
+  "scripts": {
+    "start": "node student-implementation.js",
+    "test": "node test-apis.js"
+  },
+  "keywords": [
+    "api",
+    "backend",
+    "ai",
+    "podcast",
+    "news",
+    "openai",
+    "elevenlabs",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  }
+}
+

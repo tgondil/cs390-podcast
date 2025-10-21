@@ -1,0 +1,127 @@
+# ===============================================
+# API Podcast Generator - Student Repository
+# ===============================================
+# This .gitignore ensures students only get what they need
+# and prevents committing sensitive information
+
+# ===============================================
+# SECRETS & SENSITIVE DATA (CRITICAL!)
+# ===============================================
+.env
+.env.local
+.env.*.local
+*.key
+*_key.txt
+
+# ===============================================
+# INSTRUCTOR-ONLY FILES (DON'T SHARE WITH STUDENTS)
+# ===============================================
+instructor-solution.js
+podcast-generator.js
+INSTRUCTOR_GUIDE.md
+INSTRUCTOR_README.md
+INSTRUCTOR_TESTING_GUIDE.md
+PROJECT_SUMMARY.md
+STUDENT_FILES.md
+DEPLOYMENT_CHECKLIST.txt
+FINAL_SUMMARY.txt
+API_PSO_SUMMARY.md
+BOTH_PSOS_OVERVIEW.txt
+
+# ===============================================
+# DOCUMENTATION (Use handout.pdf instead)
+# ===============================================
+README.md
+STUDENT_GUIDE.md
+QUICK_START.md
+API_REFERENCE.md
+COMPLETION_CHECKLIST.md
+*.md
+
+# ===============================================
+# GENERATED OUTPUT (STUDENTS CREATE THEIR OWN)
+# ===============================================
+output/
+*.mp3
+*.wav
+
+# ===============================================
+# NODE.JS
+# ===============================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# ===============================================
+# LATEX BUILD FILES
+# ===============================================
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+handout.tex
+compile.log
+
+# ===============================================
+# OS FILES
+# ===============================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ===============================================
+# IDE & EDITOR FILES
+# ===============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# ===============================================
+# TESTING & COVERAGE
+# ===============================================
+.nyc_output/
+coverage/
+*.lcov
+
+# ===============================================
+# MISC
+# ===============================================
+*.bak
+*.tmp
+*.temp
+.cache/
+
+# ===============================================
+# KEEP THESE FILES (explicitly not ignored)
+# ===============================================
+# The following are important for students:
+# - README.md
+# - STUDENT_GUIDE.md
+# - QUICK_START.md
+# - COMPLETION_CHECKLIST.md
+# - API_REFERENCE.md
+# - handout.pdf
+# - student-implementation.js
+# - api-helpers.js
+# - test-apis.js
+# - package.json
+# - .env.example
+# - .gitignore (this file)
